@@ -56,9 +56,9 @@ No production neuromorphic chip today does this:
 
 ## Specification Files
 
-- [`specs/AXON_X6.2_Final.md`](specs/AXON_X6.2_Final.md) 
+- [`specs/AXON_X6.2_Final.md`](AXON_X6.2_Final.docx) 
   — Complete silicon-ready specification
-- [`docs/AXON_X6.2_Summary.md`](docs/AXON_X6.2_Summary.md) 
+- [`docs/AXON_X6.2_Summary.md`](AXON_X6.2_Summary.md) 
   — 150-word technical summary
 
 ---
